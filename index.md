@@ -9,3 +9,9 @@ Currently, recordings can be found in the Linux version [here](https://gitlab.li
     width="600"
     height="400">
 </iframe>
+
+<iframe
+    src="https://www.youtube.com/embed/Of9_6POgILk" 
+    width="600"
+    height="400">
+</iframe>
