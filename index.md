@@ -4,13 +4,8 @@ Two verisions of this projects exist, one for [Windows](https://gitlab.liu.se/fr
 
 Currently, recordings can be found in the Linux version [here](https://gitlab.liu.se/fribl68/index-pose/-/tree/master/good_recordings)
 
-<video style="display:block; margin: 0 auto;width:100%;" controls>  
-  <source src="https://youtu.be/F_WO01-Y7Ag" type="video/mp4"> 
-</video>
-
 <iframe
     src="https://www.youtube.com/embed/F_WO01-Y7Ag" 
     width="600"
-    height="400"
-    allowfullscreen="">
+    height="400">
 </iframe>
