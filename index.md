@@ -4,4 +4,4 @@ Two verisions of this projects exist, one for [Windows](https://gitlab.liu.se/fr
 
 Currently, recordings can be found in the Linux version [here](https://gitlab.liu.se/fribl68/index-pose/-/tree/master/good_recordings)
 
-{% include ytplayer.html %}
+{% include video.html %}
