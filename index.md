@@ -8,4 +8,9 @@ Currently, recordings can be found in the Linux version [here](https://gitlab.li
   <source src="https://youtu.be/F_WO01-Y7Ag" type="video/mp4"> 
 </video>
 
-{% include video.html %}
+<iframe
+    src="https://www.youtube.com/embed/F_WO01-Y7Ag" 
+    width="600"
+    height="400"
+    allowfullscreen="">
+</iframe>
